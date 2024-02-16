@@ -1,7 +1,7 @@
 # nepali-asr
 Work on under-resourced languages in Nepal
 
-Paper: End-to-End Speech Recognition for Endangered Languages of Nepal
+Paper: Meelen, Marieke; O'Neill, Alexander; Coto-Solano, Rolando. End-to-End Speech Recognition for Endangered Languages of Nepal.
 
 Best performing models:
 
