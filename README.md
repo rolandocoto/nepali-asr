@@ -1,7 +1,7 @@
 # nepali-asr
 Work on under-resourced languages in Nepal
 
-Paper: Meelen, Marieke; O'Neill, Alexander; Coto-Solano, Rolando. End-to-End Speech Recognition for Endangered Languages of Nepal.
+Paper: Meelen, Marieke; O'Neill, Alexander; Coto-Solano, Rolando. [End-to-End Speech Recognition for Endangered Languages of Nepal](https://aclanthology.org/2024.computel-1.12/).
 
 Best performing models:
 
@@ -17,3 +17,6 @@ From 294 minutes of data: CER=0.115, WER=0.50
 Post-processing modifications:<br>
 Word correction for Dzardzongke (Python file)<br>
 Word correction for Newar (Python file)
+
+If you use these models or files, please cite the following paper:
+Marieke Meelen, Alexander O’neill, and Rolando Coto-Solano. 2024. [End-to-End Speech Recognition for Endangered Languages of Nepal](https://aclanthology.org/2024.computel-1.12/). In _Proceedings of the Seventh Workshop on the Use of Computational Methods in the Study of Endangered Languages_, pages 83–93, St. Julians, Malta. Association for Computational Linguistics.
